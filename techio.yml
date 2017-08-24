@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple C++ template
 
 plan:
-  - title: Python Snippet
+  - title: C++ Snippet
     statement: statement.md
